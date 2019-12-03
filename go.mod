@@ -1,3 +1,5 @@
+module auto-deploy-sample-01
+
 go 1.13
 
 require (
