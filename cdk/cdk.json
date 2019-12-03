@@ -1,0 +1,7 @@
+{
+  "context": {
+    "account": "YOUR_AWS_ACCOUNT",
+    "region": "YOUR_AWS_REGION"
+  },
+  "app": "npx ts-node bin/cdk.ts"
+}
